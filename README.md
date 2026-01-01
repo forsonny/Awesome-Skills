@@ -11,6 +11,7 @@ Skills are reusable instruction sets that extend Claude Code's capabilities. The
 | Skill | Description | Version |
 |-------|-------------|---------|
 | [skill-maker](./skill-maker/) | Meta-skill for creating and validating Claude Code skills | 1.1.0 |
+| [github-flow](./github-flow/) | Complete GitHub workflow: commits, versioning, changelogs, releases with auto-checks | 1.0.0 |
 
 ## Installation
 
